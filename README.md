@@ -1,4 +1,4 @@
 # demo
 This is practice repository.
 <br>
-Author - Nitish Kumar
+Author - Nitish Kumar(Sheohar)
